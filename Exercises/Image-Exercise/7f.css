@@ -1,0 +1,35 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.email{
+  color: grey;
+  margin-bottom: 8px;
+}
+
+.textbox{
+  width: 400px;
+  height: 28px;
+  border-radius: 4px;
+}
+
+.text-body{
+  margin-top: 17px;
+  margin-bottom: 17px;
+  color: grey;
+}
+
+.button-text{
+  border: none;
+  background-color: rgb(38, 128, 245);
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  border-radius: 50px;
+  font-size: 20px;
+  cursor: pointer;
+}
