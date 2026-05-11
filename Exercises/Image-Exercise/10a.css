@@ -10,20 +10,30 @@
   display: inline-block;
   margin-right: 15px;
   vertical-align: middle;
+  border-color: blue;
+  border-style: solid;
+  height: 85px;
+  margin: 0;
 }
 
 .name-1 {
   height: 25px;
   font-weight: bold;
   vertical-align: top;
+  border-color: red;
+  border-style: solid;
 }
 .name-2 {
   height: 25px;
   vertical-align: middle;
+  border-color: red;
+  border-style: solid;
 }
 .name-3 {
   vertical-align: bottom;
   height: 25px;
+  border-color: red;
+  border-style: solid;
 }
 
 p {
@@ -36,11 +46,15 @@ p {
 .body-container {
   vertical-align: middle;
   display: inline-block;
-  margin-right: 200px;
+  border-color: blue;
+  border-style: solid;
+  width: 300px;
+  height: 85px;
 }
 
 .button-container {
   display: inline-block;
+  vertical-align: middle;
 }
 
 .follow {
@@ -48,7 +62,6 @@ p {
   background-color: rgb(0, 176, 230);
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  width: 70px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
