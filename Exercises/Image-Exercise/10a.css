@@ -1,0 +1,59 @@
+.cat {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  margin-bottom: 12px;
+  border-radius: 40px;
+}
+
+.image-container {
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: middle;
+}
+
+.name-1 {
+  height: 25px;
+  font-weight: bold;
+  vertical-align: top;
+}
+.name-2 {
+  height: 25px;
+  vertical-align: middle;
+}
+.name-3 {
+  vertical-align: bottom;
+  height: 25px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.body-container {
+  vertical-align: middle;
+  display: inline-block;
+  margin-right: 200px;
+}
+
+.button-container {
+  display: inline-block;
+}
+
+.follow {
+  border: none;
+  background-color: rgb(0, 176, 230);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
